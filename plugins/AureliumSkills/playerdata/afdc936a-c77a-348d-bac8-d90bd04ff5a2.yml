@@ -1,0 +1,77 @@
+uuid: afdc936a-c77a-348d-bac8-d90bd04ff5a2
+skills:
+  farming:
+    level: 1
+    xp: 0.0
+  foraging:
+    level: 3
+    xp: 6.360000000000104
+  mining:
+    level: 1
+    xp: 0.0
+  fishing:
+    level: 1
+    xp: 0.0
+  excavation:
+    level: 1
+    xp: 13.299999999999995
+  archery:
+    level: 1
+    xp: 0.0
+  defense:
+    level: 1
+    xp: 0.0
+  fighting:
+    level: 1
+    xp: 2.0
+  endurance:
+    level: 3
+    xp: 23.0
+  agility:
+    level: 1
+    xp: 98.0
+  alchemy:
+    level: 1
+    xp: 0.0
+  enchanting:
+    level: 1
+    xp: 0.0
+  sorcery:
+    level: 1
+    xp: 0.0
+  healing:
+    level: 1
+    xp: 0.0
+  forging:
+    level: 1
+    xp: 0.0
+stat_modifiers:
+  '0':
+    name: mmoitems_STRENGTH
+    stat: strength
+    value: 0.0
+  '1':
+    name: mmoitems_TOUGHNESS
+    stat: toughness
+    value: 0.0
+  '2':
+    name: mmoitems_WISDOM
+    stat: wisdom
+    value: 0.0
+  '3':
+    name: mmoitems_REGENERATION
+    stat: regeneration
+    value: 0.0
+  '4':
+    name: mmoitems_LUCK
+    stat: luck
+    value: 0.0
+  '5':
+    name: mmoitems_HEALTH
+    stat: health
+    value: 0.0
+mana: 20.0
+locale: en
+ability_data:
+  absorption:
+    activated: false

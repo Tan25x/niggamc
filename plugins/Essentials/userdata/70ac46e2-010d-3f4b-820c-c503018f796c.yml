@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1725764391179
+  login: 1725764306625
+money: '0'
+last-account-name: skibidi6969
+logoutlocation:
+  world: 8981bbf7-369b-4bc2-9575-aad159d3eac9
+  world-name: world
+  x: -1828.4446001648948
+  y: 64.0
+  z: -971.8803259101069
+  yaw: -74.25015258789062
+  pitch: 21.749919891357422
